@@ -1,2 +1,2 @@
-if true:
+if True:
   print("hello world!")
